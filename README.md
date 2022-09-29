@@ -1,12 +1,12 @@
 # Organizing Code with Import/Export
 
-## Learning Goals
+<!-- ## Learning Goals
 
 - Understand why it's important to split up our code into smaller files.
 - Learn how `import` and `export` support our ability to build modular code.
 - Understand the different ways to import and export code.
 
-## Introduction
+## Introduction -->
 
 In this lesson, we'll discuss the `import` and `export` keywords and how they
 allow us to share JavaScript code across multiple files.
